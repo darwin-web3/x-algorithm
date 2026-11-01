@@ -15,12 +15,8 @@ This repository contains the core code that determines which posts a viewer sees
 - [System Architecture](#system-architecture)
   - [Request Path](#request-path)
   - [Labeling Path](#labeling-path)
-- [Components](#components)
-- [How It Works](#how-it-works)
-  - [Scoring and Ranking](#scoring-and-ranking)
   - [Filtering](#filtering)
-- [Experiments and Configuration](#experiments-and-configuration)
-- [What's not in this repo?](#whats-not-in-this-repo)
+- [
 - [Under the Hood Label Transparency Tool](#under-the-hood-label-transparency-tool)
 - [Key Design Decisions](#key-design-decisions)
 - [License](#license)
